@@ -1,8 +1,8 @@
-China,SKU90000,Jordan 1,3200.0,50
+Country,Code,Product,Cost,Quantity
 Vietnam,SKU63221,Blazer,1700.0,19
 United States,SKU29077,Cortez,970.0,60
 Russia,SKU89999,Air Force 1,2000.0,43
-Australia,SKU57443,Waffle Racer,2700.0,4
+Australia,SKU57443,Waffle Racer,2700.0,5
 Canada,SKU68677,Air Max 97,3600.0,13
 Egypt,SKU19888,Dunk SB,1500.0,26
 Britain,SKU76000,Kobe 4,3400.0,32
